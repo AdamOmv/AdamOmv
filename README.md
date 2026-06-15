@@ -33,7 +33,7 @@ Actuellement, je travaille sur des projets web autour du **front-end**, du **bac
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,php,laravel,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,php,symfony,laravel,mysql,git,github,vscode" />
 
 </div>
 
