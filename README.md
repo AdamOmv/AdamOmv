@@ -56,23 +56,23 @@ Découvre mes projets, mon univers et mes réalisations ici :
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Portfolio</h3>
+      <h3 align="center">Resistex</h3>
       <p align="center">
-        Mon site personnel avec mes projets, mon parcours et mes expériences.
+        Développement d’un site e-commerce BtoB complet pour Resistex.
       </p>
       <p align="center">
-        <a href="https://adomv.com" target="_blank">
+        <a href="https://www.resistex-sa.com/" target="_blank">
           <img src="https://img.shields.io/badge/Voir le site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">GitHub Projects</h3>
+      <h3 align="center">ThonQuizz</h3>
       <p align="center">
-        Retrouve mes repositories publics et mes expérimentations web.
+        ThonQuizz est une plateforme innovante de création de quiz intelligents.
       </p>
       <p align="center">
-        <a href="https://github.com/AdamOmv?tab=repositories" target="_blank">
+        <a href="https://www.thonquizz.com/" target="_blank">
           <img src="https://img.shields.io/badge/Voir mes repos-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
