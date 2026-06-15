@@ -73,7 +73,7 @@ Découvre mes projets, mon univers et mes réalisations ici :
       </p>
       <p align="center">
         <a href="https://www.thonquizz.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Voir mes repos-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Voir le site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
     </td>
